@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-18)
+## Unreleased (2025-06-28)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a4ce77e`](https://github.com/stdlib-js/stdlib/commit/a4ce77efe910c9398e75b767fb81e786a3a04cc0) - **test:** pass in opts to skip if addon is not available _(by Philipp Burckhardt)_
 -   [`cf30373`](https://github.com/stdlib-js/stdlib/commit/cf30373879ceec62e73aa5affeb52ccfd0bbdc5c) - **feat:** add C implementation for `stats/base/dists/normal/logcdf` [(#3988)](https://github.com/stdlib-js/stdlib/pull/3988) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 
 </details>
